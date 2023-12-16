@@ -1,4 +1,4 @@
-**🚀 Introducing RunPod - The Global AI Cloud 🌍**
+# 🚀 Introducing RunPod - The Global AI Cloud 🌍
 
 🔹 Develop, train, and scale AI applications with RunPod's globally distributed GPU cloud! 💻🎨
 
